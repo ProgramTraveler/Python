@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="807e27ac-f32b-44cc-b311-8383b0681efb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python的练习程序/TwoDay/TwoDaySecondDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python的练习程序/TwoDay/TwoDaySecondDemo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +170,7 @@
       <workItem from="1608374220863" duration="2056000" />
       <workItem from="1608426922503" duration="802000" />
       <workItem from="1608457261085" duration="4068000" />
+      <workItem from="1608517455619" duration="1621000" />
     </task>
     <servers />
   </component>
@@ -182,22 +182,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="519" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1608348116795" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1608461421075">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1608517480525">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608461421075" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1608461421075">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608517480525" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1608517480524">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608461421075" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1608461421075">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608517480524" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1608517480524">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608461421075" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1608461421075">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608517480524" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1608517480524">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608461421075" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608517480524" />
     <state x="201" y="84" key="SettingsEditor" timestamp="1608349535621">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -214,6 +214,6 @@
     <SUITE FILE_PATH="coverage/PythonProgram$FirstPythonDemo.coverage" NAME="FirstPythonDemo Coverage Results" MODIFIED="1608374621910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序" />
     <SUITE FILE_PATH="coverage/PythonProgram$TowDayFirstDemo.coverage" NAME="TowDayFirstDemo Coverage Results" MODIFIED="1608458075365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序/TwoDay" />
     <SUITE FILE_PATH="coverage/Python$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1608348882445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProgram$TwoDaySecondDemo.coverage" NAME="TwoDaySecondDemo Coverage Results" MODIFIED="1608460681882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序/TwoDay" />
+    <SUITE FILE_PATH="coverage/PythonProgram$TwoDaySecondDemo.coverage" NAME="TwoDaySecondDemo Coverage Results" MODIFIED="1608517477653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序/TwoDay" />
   </component>
 </project>
