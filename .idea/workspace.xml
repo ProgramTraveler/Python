@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="807e27ac-f32b-44cc-b311-8383b0681efb" name="Default Changelist" comment="">
+    <list default="true" id="88540263-49d5-43f5-a66a-63c9a7754d2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,201 +21,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1lrGs9qsIhhklAL6TVxuHE9SsnI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2CceCDjZ1cXLroXkYf7hmaO4KrV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunManager" selected="Python.TwoDaySecondDemo">
-    <configuration name="FirstPythonDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProgram" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python的练习程序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python的练习程序/FirstPythonDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="OneDaySecondDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProgram" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python的练习程序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python的练习程序/OneDaySecondDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TowDayFirstDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProgram" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python的练习程序/TwoDay" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python的练习程序/TwoDay/TowDayFirstDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TwoDaySecondDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProgram" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python的练习程序/TwoDay" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python的练习程序/TwoDay/TwoDaySecondDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TwoDayThird" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProgram" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python的练习程序/TwoDay" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python的练习程序/TwoDay/TwoDayThird.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.TwoDaySecondDemo" />
-        <item itemvalue="Python.TwoDayThird" />
-        <item itemvalue="Python.TowDayFirstDemo" />
-        <item itemvalue="Python.OneDaySecondDemo" />
-        <item itemvalue="Python.FirstPythonDemo" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="807e27ac-f32b-44cc-b311-8383b0681efb" name="Default Changelist" comment="" />
-      <created>1608348000330</created>
+      <changelist id="88540263-49d5-43f5-a66a-63c9a7754d2f" name="Changes" comment="" />
+      <created>1659106171112</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608348000330</updated>
-      <workItem from="1608348002384" duration="1569000" />
-      <workItem from="1608349654491" duration="828000" />
-      <workItem from="1608374220863" duration="2056000" />
-      <workItem from="1608426922503" duration="802000" />
-      <workItem from="1608457261085" duration="4068000" />
-      <workItem from="1608517455619" duration="1621000" />
+      <updated>1659106171112</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="519" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608348116795">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="519" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1608348116795" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1608517480525">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608517480525" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1608517480524">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608517480524" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1608517480524">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608517480524" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1608517480524">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608517480524" />
-    <state x="201" y="84" key="SettingsEditor" timestamp="1608349535621">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="201" y="84" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1608349535621" />
-    <state x="431" y="155" key="search.everywhere.popup" timestamp="1608374826463">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608374826463" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProgram$OneDaySecondDemo.coverage" NAME="OneDaySecondDemo Coverage Results" MODIFIED="1608374960449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序" />
-    <SUITE FILE_PATH="coverage/PythonProgram$TwoDayThird.coverage" NAME="TwoDayThird Coverage Results" MODIFIED="1608460667997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序/TwoDay" />
-    <SUITE FILE_PATH="coverage/PythonProgram$.coverage" NAME="太阳花 Coverage Results" MODIFIED="1608349877688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProgram$FirstPythonDemo.coverage" NAME="FirstPythonDemo Coverage Results" MODIFIED="1608374621910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序" />
-    <SUITE FILE_PATH="coverage/PythonProgram$TowDayFirstDemo.coverage" NAME="TowDayFirstDemo Coverage Results" MODIFIED="1608458075365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序/TwoDay" />
-    <SUITE FILE_PATH="coverage/Python$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1608348882445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProgram$TwoDaySecondDemo.coverage" NAME="TwoDaySecondDemo Coverage Results" MODIFIED="1608517477653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python的练习程序/TwoDay" />
   </component>
 </project>
