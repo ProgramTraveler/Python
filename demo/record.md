@@ -3,7 +3,6 @@
 #### 2022-07-29 变量和简单数据类型
 
 ```py
-
 demo_1 = 'first'
 demo_2 = 'second'
 
@@ -45,13 +44,11 @@ print(x, y, z)
 '''
 i am
 '''
-
 ```
 
 #### 2022-07-31 列表简介
 
 ```py
-
 # 列表
 a = [1, 2, 3]
 print(a)
@@ -108,13 +105,11 @@ print(f)
 
 # 列表长度len()函数
 print(len(f))
-
 ```
 
 #### 2022-08-02 操作列表
 
 ```py
-
 # 遍历列表
 a = [1, 2, 3, 5, 7, 8]
 # py属性默认为换行符\n，此时将end属性改为‘’，就不会自动换行了。
@@ -210,13 +205,11 @@ print("")
 dim = [1, 2]
 dim = [3, 4]
 print(dim)
-
 ```
 
 #### 2022-08-03 if语句
 
 ```py
-
 # if语句
 a = [1, 2, 3]
 for i in a:
@@ -251,7 +244,6 @@ elif 3 < age < 4:
     print("3-4")
 else:
     print("4-")
-
 ```
 
 #### 2022-08-04 字典
@@ -356,13 +348,11 @@ user = {
         'love': 'none',
     },
 }
-
 ```
 
 #### 2022-08-05 用户输入和while循环
 
 ```py
-
 # input()函数
 """
 
@@ -542,11 +532,9 @@ Pizza.greet()
 g()
 
 # 导入模块中的所有函数 from Pizza import *
-
 ```
 
 ```py
-
 # demo_2022_08-06的函数模块
 
 
@@ -558,5 +546,65 @@ def make_pizza(size, *toppings):
 
 def greet():
     print(f"---hello---")
+```
 
+#### 2022-08-07 类
+
+```py
+# 创建类
+class Dog:
+    # 这个初始化的结构似乎是固定的(左右都是两个下划线)
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    @staticmethod
+    def sitting():
+        print("the dog is sitting")
+
+    def set_name(self, new_name):
+        self.name = new_name
+
+    def add_age(self):
+        self.age += 1
+
+
+my_dog = Dog('peter', 5)
+print(f"my dog is {my_dog.name}, he is {my_dog.age} years old")
+my_dog.sitting()
+
+# 修改属性的值
+# 直接访问属性的值进行修改
+my_dog.name = 'forma'
+print(f"my dog now is {my_dog.name}")
+# 通过方法来修改属性的值
+my_dog.set_name("chrom")
+print(f"my dog now is {my_dog.name}")
+# 通过使用方法来对属性值进修改
+my_dog.add_age()
+print(f"my dog is {my_dog.age} years old")
+
+# 继承
+
+
+class ElectricDog(Dog):
+    def __init__(self, name, age):
+        super().__init__(name, age)
+        # 给子类定义属性
+        self.color = 'red'
+
+    # 给子类定义方法
+    def jumping(self):
+        print(f"{self.name} is jumping")
+
+    # 对父类方法进行重写
+    def sitting(self):
+        print(f"{self.name} is sitting")
+
+
+my_new_dog = ElectricDog('volt', 10)
+print(f"my new dog is {my_new_dog.name}, he is {my_new_dog.age} years old")
+print(f"he is {my_new_dog.color}")
+my_new_dog.jumping()
+my_new_dog.sitting()
 ```
