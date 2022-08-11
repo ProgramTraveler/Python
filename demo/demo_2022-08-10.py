@@ -1,3 +1,5 @@
+import json
+
 # 从文件中读取数据
 # 读取整个文件
 with open('digits.txt') as file_object:
@@ -44,3 +46,45 @@ with open(file_name, 'w') as file_object:
 # 附加到文件
 with open(file_name, 'a') as file_object:
     file_object.write("I also love creating apps")
+print("---")
+
+# 异常
+# 处理ZeroDivisionError异常
+try:
+    print(5/0)
+except ZeroDivisionError:
+    print("you can't divide by zero")
+print("---")
+
+# else代码块
+first_num = 10
+second_num = 2
+try:
+    answer = first_num / second_num
+except ZeroDivisionError:
+    print("you can't divide by zero")
+else:
+    print(answer)
+print("---")
+
+# 处理
+file_name = 'no.txt'
+try:
+    with open(file_name, encoding='utf-8') as f:
+        contents = f.read()
+except FileNotFoundError:
+    # 如果想要执行except什么都不要发生,可以使用pass
+    print(f"the file {file_name} does not exist")
+
+# 存储数据
+# 使用json.dump()和json.load() 需要导入json
+numbers = [2, 3, 4, 5, 6]
+file_name = 'numbers.json'
+with open(file_name, 'w') as f:
+    json.dump(numbers, f)
+print("---")
+
+# 将列表读取到内存中
+with open(file_name, 'r') as f:
+    temp_num = json.load(f)
+    print(temp_num)
